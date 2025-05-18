@@ -1,1 +1,5 @@
-[]
+[
+  { "text": "Buy groceries", "done": false },
+  { "text": "Complete assignment", "done": true },
+  { "text": "Walk the dog", "done": false }
+]
